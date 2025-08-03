@@ -1,0 +1,26 @@
+{
+  "name": "arpeggiator",
+  "version": "1.0.0",
+  "description": "Hand-controlled arpeggiator, drum machine, and audio reactive visualizer. Raise your hands to raise the roof!",
+  "main": "main.js",
+  "scripts": {
+     "start": "lite-server"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collidingScopes/arpeggiator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/collidingScopes/arpeggiator/issues"
+  },
+  "homepage": "https://github.com/collidingScopes/arpeggiator#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "lite-server": "^2.6.1"
+  }
+}
